@@ -38,3 +38,4 @@ def load_cifar10(dir):
     X_test = X_test/255
 
     return X_train, Y_train, X_test, Y_test
+
